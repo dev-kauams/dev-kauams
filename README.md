@@ -19,10 +19,10 @@
 const kaua = {
   nome:      "Kauã Mariano Santinho",
   alias:     "dev-kauams",
-  localização: "Brasil 🇧🇷",
+  localização: "São Paulo, Brasil 🇧🇷",
   foco:      "Front-end Development",
   estado:    "Em constante evolução",
-  missão:    "Transformar ideias em interfaces que as pessoas amam usar",
+  missão:    "Transformar ideias em interfaces que as pessoas amam usar"
 };
 ```
 
