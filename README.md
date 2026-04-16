@@ -21,7 +21,7 @@ const kaua = {
   alias:     "dev-kauams",
   localização: "Brasil 🇧🇷",
   foco:      "Front-end Development",
-  estado:    "Em constante evolução 🚀",
+  estado:    "Em constante evolução",
   missão:    "Transformar ideias em interfaces que as pessoas amam usar",
 };
 ```
@@ -113,8 +113,9 @@ Acredito que bom código não é só funcional: ele é legível, acessível e bo
 | Projeto | Descrição | Status | Tech |
 |--------|-----------|--------|------|
 | **Guru's Learn** | Plataforma de aprendizado com foco em comunidade e conhecimento acessível | 🔨 Em desenvolvimento | HTML · CSS · JS |
+| **Pokémon Journey** | Agência de viajens tematizada com o Universo Pokémon | 🔨 Em desenvolvimento | HTML · CSS · JS |
 
-> Mais projetos a caminho — estou construindo, um commit de cada vez.
+> Mais projetos a caminho, estou construindo, um commit de cada vez.
 
 <br/>
 
