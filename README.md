@@ -137,7 +137,6 @@ Acredito que bom código não é só funcional: ele é legível, acessível e bo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **"COGITO, ERGO SUM"**
 
@@ -146,3 +145,4 @@ Acredito que bom código não é só funcional: ele é legível, acessível e bo
 ![Visitor Badge](https://komarev.com/ghpvc/?username=dev-kauams&color=6A0DAD&style=flat-square&label=visitas+ao+perfil)
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" width="100%"/>
