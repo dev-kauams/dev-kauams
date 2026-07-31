@@ -146,6 +146,9 @@ Sou **estudante de Desenvolvimento de Sistemas**, apaixonado por criar landing p
 
 <img src="https://camo.githubusercontent.com/0eeed41525f47732c9e10683b79963887b343a974ab6af14e56a44d3133a8e4f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465762d6b6175616d73267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565266261636b67726f756e643d3064306431612672696e673d39423539423626666972653d364130444144266375727253747265616b4c6162656c3d394235394236" width="48%" />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kauams&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kauams&show_icons=true&theme=dark)
+
 </div>
 
 ---
