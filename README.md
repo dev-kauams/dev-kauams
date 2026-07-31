@@ -122,7 +122,7 @@ Sou **estudante de Desenvolvimento de Sistemas**, apaixonado por criar landing p
 
 <div align="center">
 
-#### 🟣 Nome do Projeto 4
+#### 🟣 Guru's City
 
 *Breve descrição do que o projeto faz e qual problema resolve.*
 
