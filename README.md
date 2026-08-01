@@ -1,215 +1,170 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="banner" width="100%" />
+<img src="./assets/banner.svg" alt="Kauã Mariano Santinho" width="100%"/>
 
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=22&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=560&height=50&lines=Software+Developer;Front-End+Developer;Always+learning.;Building+useful+things." alt="typing banner" />
-
-<img src="./assets/divider.svg" alt="" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=560&letter-spacing=3px&lines=Front-End+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Building+precise%2C+well-crafted+interfaces" alt="typing banner"/>
 
 </div>
 
-<br />
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-<img src="./assets/header-about.svg" alt="About" height="42" />
+## About
 
-<br /><br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm a developer focused on building clean, reliable, and well-crafted software —
-from interfaces to the systems behind them. I care about precision, readability,
-and design that ages well.
+**Português**
 
-Currently exploring modern front-end architecture, developer tooling, and the
-quiet discipline of writing code that is easy to reason about.
+Meu nome é Kauã Mariano Santinho, tenho 17 anos e atualmente curso o Técnico em Desenvolvimento de Sistemas. Tenho grande interesse pelo desenvolvimento Front-End e estou aprofundando meus estudos em React, Node.js e TypeScript. Gosto de transformar ideias em interfaces bem estruturadas, buscando sempre aprender novas tecnologias e evoluir constantemente como desenvolvedor.
 
-<br />
+</td>
+<td width="50%" valign="top">
 
-<img src="./assets/header-connect.svg" alt="Elsewhere" height="42" />
+**English**
 
-<br /><br />
+My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Systems Development at a technical school. I'm focused on Front-End Development and currently improving my skills in React, Node.js and TypeScript. I enjoy turning ideas into well-crafted interfaces and I'm always looking to learn new technologies and continuously grow as a developer.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+## Technologies
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-14101D?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14101D?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-14101D?style=for-the-badge&logo=instagram&logoColor=C084FC)](https://instagram.com/your-username)
-[![Discord](https://img.shields.io/badge/Discord-14101D?style=for-the-badge&logo=discord&logoColor=C084FC)](https://discord.com/users/your-id)
-[![Email](https://img.shields.io/badge/Email-14101D?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:[email protected])
-[![Portfolio](https://img.shields.io/badge/Portfolio-14101D?style=for-the-badge&logo=aboutdotme&logoColor=C084FC)](https://your-portfolio.com)
+<img src="./assets/icons/html5.svg" width="76" alt="HTML5"/>&nbsp;&nbsp;
+<img src="./assets/icons/css3.svg" width="76" alt="CSS3"/>&nbsp;&nbsp;
+<img src="./assets/icons/javascript.svg" width="76" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="./assets/icons/typescript.svg" width="76" alt="TypeScript"/>&nbsp;&nbsp;
+<img src="./assets/icons/react.svg" width="76" alt="React"/>&nbsp;&nbsp;
+<img src="./assets/icons/nodejs.svg" width="76" alt="Node.js"/>&nbsp;&nbsp;
+<img src="./assets/icons/git.svg" width="76" alt="Git"/>
+
+<br/><br/>
+
+<img src="./assets/icons/github.svg" width="76" alt="GitHub"/>&nbsp;&nbsp;
+<img src="./assets/icons/linux.svg" width="76" alt="Linux"/>&nbsp;&nbsp;
+<img src="./assets/icons/vscode.svg" width="76" alt="VS Code"/>&nbsp;&nbsp;
+<img src="./assets/icons/figma.svg" width="76" alt="Figma"/>&nbsp;&nbsp;
+<img src="./assets/icons/mysql.svg" width="76" alt="MySQL"/>&nbsp;&nbsp;
+<img src="./assets/icons/markdown.svg" width="76" alt="Markdown"/>
 
 </div>
 
-<br />
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
-
-<br />
-
-<img src="./assets/header-technologies.svg" alt="Technologies" height="42" />
-
-<br /><br />
+## Statistics
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-14101D?style=for-the-badge&logo=html5&logoColor=C084FC)
-![CSS3](https://img.shields.io/badge/CSS3-14101D?style=for-the-badge&logo=css3&logoColor=C084FC)
-![JavaScript](https://img.shields.io/badge/JavaScript-14101D?style=for-the-badge&logo=javascript&logoColor=C084FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-14101D?style=for-the-badge&logo=typescript&logoColor=C084FC)
-![Node.js](https://img.shields.io/badge/Node.js-14101D?style=for-the-badge&logo=nodedotjs&logoColor=C084FC)
-![React](https://img.shields.io/badge/React-14101D?style=for-the-badge&logo=react&logoColor=C084FC)
-![Next.js](https://img.shields.io/badge/Next.js-14101D?style=for-the-badge&logo=nextdotjs&logoColor=C084FC)
-![Git](https://img.shields.io/badge/Git-14101D?style=for-the-badge&logo=git&logoColor=C084FC)
-![GitHub](https://img.shields.io/badge/GitHub-14101D?style=for-the-badge&logo=github&logoColor=C084FC)
-![VS Code](https://img.shields.io/badge/VS_Code-14101D?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC)
-![Linux](https://img.shields.io/badge/Linux-14101D?style=for-the-badge&logo=linux&logoColor=C084FC)
-![Figma](https://img.shields.io/badge/Figma-14101D?style=for-the-badge&logo=figma&logoColor=C084FC)
-![MySQL](https://img.shields.io/badge/MySQL-14101D?style=for-the-badge&logo=mysql&logoColor=C084FC)
-![Markdown](https://img.shields.io/badge/Markdown-14101D?style=for-the-badge&logo=markdown&logoColor=C084FC)
+<img src="https://github-stats-extended.vercel.app/api?username=dev-kauams&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E9D5FF&icon_color=C084FC&text_color=F8FAFC&border_color=5B21B6" alt="GitHub Stats" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&hide_border=true&bg_color=0D1117&title_color=E9D5FF&text_color=F8FAFC&border_color=5B21B6" alt="Top Languages" width="34%"/>
 
-</div>
+<br/>
 
-<br />
+<img src="https://streak-stats.demolab.com?user=dev-kauams&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=F8FAFC&dates=A855F7" alt="GitHub Streak" width="85%"/>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+<br/>
 
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&bg_color=0D1117&color=C084FC&line=7C3AED&point=E9D5FF&area=true&hide_border=true&area_color=5B21B6" alt="Activity Graph" width="85%"/>
 
-<img src="./assets/header-statistics.svg" alt="Statistics" height="42" />
-
-<br /><br />
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=dev-kauams&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&border_color=2B1F45" alt="GitHub Stats" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&border_color=2B1F45" alt="Top Languages" height="165" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=dev-kauams&theme=highcontrast&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=C084FC&sideNums=E9D5FF&currStreakNum=E9D5FF&sideLabels=E9D5FF&dates=5B21B6" alt="GitHub Streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&theme=react-dark&bg_color=0D1117&color=C084FC&line=7C3AED&point=E9D5FF&area=true&area_color=5B21B6&hide_border=true&custom_title=Recent%20Activity" alt="Activity Graph" width="100%" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-kauams&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Trophies" />
-
-<br /><br />
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/dev-kauams/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/your-username/dev-kauams/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg" width="85%"/>
 </picture>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dev-kauams&label=Profile+Views&color=5B21B6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dev-kauams&label=Profile+Views&color=5B21B6&style=flat" alt="Profile Views"/>
 
 </div>
 
-> Statistics rely on active, free-tier public services. If a widget is temporarily rate-limited, it will recover automatically — no configuration needed. The contribution snake requires the workflow in `.github/workflows/snake.yml` to run once on the `output` branch of your profile repository.
+> Statistics render automatically from your public GitHub activity. The contribution snake requires the workflow in `.github/workflows/snake.yml` (included in this repository) to be enabled once, so it can generate the `output` branch.
 
-<br />
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+## Featured Projects
 
-<br />
+<table>
+<tr>
+<td width="50%">
+<img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
 
-<img src="./assets/header-projects.svg" alt="Featured Projects" height="42" />
+**Project Name**
+Short, objective description of what the project does and the problem it solves.
 
-<br /><br />
+`React` `TypeScript` `Node.js`
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://placehold.co/560x260/14101D/C084FC?text=Project+Preview" width="100%" alt="Project One preview" /><br /><br />
-        <strong>Project Name</strong><br /><br />
-        <sub>A short, precise description of what the project does and the problem it solves.</sub><br /><br />
-        <img src="https://img.shields.io/badge/React-2B1F45?style=flat-square&logo=react&logoColor=C084FC" alt="" />
-        <img src="https://img.shields.io/badge/TypeScript-2B1F45?style=flat-square&logo=typescript&logoColor=C084FC" alt="" />
-        <img src="https://img.shields.io/badge/Node.js-2B1F45?style=flat-square&logo=nodedotjs&logoColor=C084FC" alt="" /><br /><br />
-        <a href="https://github.com/dev-kauams/gurus-learn">
-          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
-        </a>
-        <a href="https://your-live-demo-link.com">
-          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://placehold.co/560x260/14101D/C084FC?text=Project+Preview" width="100%" alt="Project Two preview" /><br /><br />
-        <strong>Project Name</strong><br /><br />
-        <sub>A short, precise description of what the project does and the problem it solves.</sub><br /><br />
-        <img src="https://img.shields.io/badge/Next.js-2B1F45?style=flat-square&logo=nextdotjs&logoColor=C084FC" alt="" />
-        <img src="https://img.shields.io/badge/MySQL-2B1F45?style=flat-square&logo=mysql&logoColor=C084FC" alt="" />
-        <img src="https://img.shields.io/badge/Figma-2B1F45?style=flat-square&logo=figma&logoColor=C084FC" alt="" /><br /><br />
-        <a href="https://github.com/dev-kauams/pokemon-journey">
-          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
-        </a>
-        <a href="https://your-live-demo-link.com">
-          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<a href="https://github.com/dev-kauams"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
+<a href="#"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+
+</td>
+<td width="50%">
+<img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
+
+**Project Name**
+Short, objective description of what the project does and the problem it solves.
+
+`HTML5` `CSS3` `JavaScript`
+
+<a href="https://github.com/dev-kauams"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
+<a href="#"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+
+</td>
+</tr>
 </table>
-
-<br />
 
 <details>
-<summary><strong>Reusable project card template</strong> — copy this block for each new project</summary>
-
-<br />
+<summary><strong>Reusable template — copy this block for each new project</strong></summary>
 
 ```md
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="LINK_TO_IMAGE" width="100%" alt="Project preview" /><br /><br />
-        <strong>PROJECT_NAME</strong><br /><br />
-        <sub>SHORT_DESCRIPTION</sub><br /><br />
-        <img src="https://img.shields.io/badge/TECH_ONE-2B1F45?style=flat-square&logo=LOGO_NAME&logoColor=C084FC" alt="" />
-        <img src="https://img.shields.io/badge/TECH_TWO-2B1F45?style=flat-square&logo=LOGO_NAME&logoColor=C084FC" alt="" /><br /><br />
-        <a href="REPOSITORY_LINK">
-          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
-        </a>
-        <a href="LIVE_DEMO_LINK">
-          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<td width="50%">
+<img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
+
+**Project Name**
+Short, objective description of what the project does and the problem it solves.
+
+`Tech` `Tech` `Tech`
+
+<a href="REPO_URL"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
+<a href="DEMO_URL"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+
+</td>
 ```
+
+Replace `./assets/project-placeholder.svg` with an actual screenshot, and `REPO_URL` / `DEMO_URL` with the real links.
 
 </details>
 
-<br />
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+## Open Source
 
-<br />
+Contributions, issues and suggestions are welcome across the public repositories linked below. Pull requests are reviewed with attention to code clarity and consistency.
 
-<img src="./assets/header-contact.svg" alt="Contact" height="42" />
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-<br /><br />
+## Contact
 
 <div align="center">
 
-Open to collaboration, freelance work, and interesting conversations about code.
-
-[![Email](https://img.shields.io/badge/[email protected]?style=for-the-badge&logo=gmail&logoColor=E9D5FF&labelColor=1A1328&color=5B21B6)](mailto:[email protected])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_me-1A1328?style=for-the-badge&logo=linkedin&logoColor=E9D5FF&labelColor=1A1328&color=5B21B6)](https://linkedin.com/in/dev-kauams)
+<a href="https://github.com/dev-kauams"><img src="./assets/social/github.svg" width="70" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/dev-kauams"><img src="./assets/social/linkedin.svg" width="70" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/@dev-kauams"><img src="./assets/social/youtube.svg" width="70" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kauams.profissional@gmail.com"><img src="./assets/social/email.svg" width="70" alt="Email"/></a>
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-<img src="./assets/footer.svg" alt="footer" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%"/>
 </div>

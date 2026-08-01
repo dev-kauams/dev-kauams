@@ -1,0 +1,23 @@
+<svg width="800" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14101D"/>
+      <stop offset="100%" stop-color="#1A1328"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="440" fill="url(#pBg)"/>
+  <rect x="10" y="10" width="780" height="420" fill="none" stroke="#5B21B6" stroke-width="1" opacity="0.6"/>
+  <rect x="16" y="16" width="768" height="408" fill="none" stroke="#D4B872" stroke-width="0.8" opacity="0.5"/>
+
+  <g transform="translate(400,190)" stroke="#C084FC" fill="none" opacity="0.7">
+    <circle r="70" stroke-width="1"/>
+    <circle r="50" stroke-width="0.6"/>
+    <circle r="4" fill="#C084FC" stroke="none"/>
+    <line x1="-70" y1="0" x2="70" y2="0" stroke-width="0.5"/>
+    <line x1="0" y1="-70" x2="0" y2="70" stroke-width="0.5"/>
+    <line x1="-50" y1="-30" x2="50" y2="30" stroke-width="1" stroke="#D4B872" opacity="0.8"/>
+  </g>
+
+  <text x="400" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#E9D5FF" opacity="0.85">PROJECT PREVIEW</text>
+  <text x="400" y="358" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" letter-spacing="1" fill="#A855F7" opacity="0.7">replace with your own screenshot</text>
+</svg>

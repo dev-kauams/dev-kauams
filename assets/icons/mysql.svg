@@ -1,0 +1,17 @@
+<svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgmysql" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#2A1B4A"/>
+      <stop offset="100%" stop-color="#160F26"/>
+    </radialGradient>
+  </defs>
+  <circle cx="60" cy="56" r="46" fill="url(#bgmysql)" stroke="#D4B872" stroke-width="1.1" opacity="0.98"/>
+  <circle cx="60" cy="56" r="38" fill="none" stroke="#7C3AED" stroke-width="0.7" opacity="0.55"/>
+
+  <g fill="none" stroke="#F8FAFC" stroke-width="2.5">
+    <ellipse cx="60" cy="42" rx="20" ry="7"/>
+    <path d="M40,42 L40,70 C40,73.8 49,77 60,77 C71,77 80,73.8 80,70 L80,42"/>
+    <path d="M40,56 C40,59.8 49,63 60,63 C71,63 80,59.8 80,56" opacity="0.6"/>
+  </g>
+  <text x="60" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="1" fill="#E9D5FF">MySQL</text>
+</svg>
