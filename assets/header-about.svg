@@ -1,0 +1,23 @@
+<svg width="230" height="64" viewBox="0 0 230 64" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600&amp;display=swap');
+    .h { font-family: 'Cinzel', serif; fill: #E9D5FF; letter-spacing: 4px; }
+  </style>
+</defs>
+<g stroke="#A855F7" fill="none" stroke-width="0.8" opacity="0.85" transform="translate(34,32.0)">
+  <circle r="13"/>
+  <circle r="7"/>
+  <line x1="13.0" y1="0.0" x2="17.0" y2="0.0"/>
+  <line x1="9.2" y1="9.2" x2="12.0" y2="12.0"/>
+  <line x1="0.0" y1="13.0" x2="0.0" y2="17.0"/>
+  <line x1="-9.2" y1="9.2" x2="-12.0" y2="12.0"/>
+  <line x1="-13.0" y1="0.0" x2="-17.0" y2="0.0"/>
+  <line x1="-9.2" y1="-9.2" x2="-12.0" y2="-12.0"/>
+  <line x1="-0.0" y1="-13.0" x2="-0.0" y2="-17.0"/>
+  <line x1="9.2" y1="-9.2" x2="12.0" y2="-12.0"/>
+  <circle r="2" fill="#E9D5FF" stroke="none"/>
+</g>
+<text x="66" y="39.0" class="h" font-size="22">ABOUT</text>
+<line x1="66" y1="48.0" x2="220" y2="48.0" stroke="#C9A227" stroke-width="0.5" opacity="0.4"/>
+</svg>

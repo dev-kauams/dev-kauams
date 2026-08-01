@@ -1,0 +1,73 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&amp;display=swap');
+    .motto { font-family: 'Cormorant Garamond', serif; font-style: italic; fill: #E9D5FF; letter-spacing: 3px; }
+  </style>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#14101D"/>
+    <stop offset="100%" stop-color="#0D1117"/>
+  </linearGradient>
+  <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#F8FAFC" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="900" height="170" fill="url(#bg)"/>
+<circle cx="148.5" cy="41.4" r="1.07" fill="#E9D5FF" opacity="0.51"/>
+<circle cx="194.4" cy="47.6" r="1.23" fill="#E9D5FF" opacity="0.53"/>
+<circle cx="454.6" cy="14.2" r="0.50" fill="#E9D5FF" opacity="0.45"/>
+<circle cx="526.8" cy="4.2" r="1.21" fill="#E9D5FF" opacity="0.38"/>
+<circle cx="209.4" cy="2.5" r="1.40" fill="#E9D5FF" opacity="0.66"/>
+<circle cx="787.5" cy="37.0" r="0.53" fill="#E9D5FF" opacity="0.43"/>
+<circle cx="447.8" cy="6.9" r="1.36" fill="#E9D5FF" opacity="0.45"/>
+<circle cx="139.3" cy="49.1" r="0.61" fill="#E9D5FF" opacity="0.76"/>
+<circle cx="407.8" cy="33.1" r="0.81" fill="#E9D5FF" opacity="0.52"/>
+<circle cx="168.2" cy="2.2" r="1.28" fill="#E9D5FF" opacity="0.38"/>
+<circle cx="702.2" cy="12.5" r="1.37" fill="#E9D5FF" opacity="0.74"/>
+<circle cx="679.3" cy="45.8" r="1.02" fill="#E9D5FF" opacity="0.65"/>
+<circle cx="110.2" cy="28.6" r="1.24" fill="#E9D5FF" opacity="0.36"/>
+<circle cx="830.9" cy="53.3" r="0.87" fill="#E9D5FF" opacity="0.45"/>
+<circle cx="406.2" cy="23.1" r="1.40" fill="#E9D5FF" opacity="0.46"/>
+<circle cx="24.2" cy="5.6" r="1.15" fill="#E9D5FF" opacity="0.80"/>
+<circle cx="446.4" cy="29.5" r="1.00" fill="#E9D5FF" opacity="0.66"/>
+<circle cx="199.8" cy="36.5" r="1.00" fill="#E9D5FF" opacity="0.59"/>
+<circle cx="162.6" cy="10.2" r="0.81" fill="#E9D5FF" opacity="0.76"/>
+<circle cx="312.0" cy="35.8" r="0.78" fill="#E9D5FF" opacity="0.31"/>
+<circle cx="59.1" cy="48.8" r="1.20" fill="#E9D5FF" opacity="0.46"/>
+<circle cx="615.0" cy="40.6" r="1.31" fill="#E9D5FF" opacity="0.78"/>
+<circle cx="366.3" cy="59.3" r="1.37" fill="#E9D5FF" opacity="0.57"/>
+<circle cx="794.9" cy="29.5" r="0.84" fill="#E9D5FF" opacity="0.39"/>
+<circle cx="788.5" cy="9.7" r="0.56" fill="#E9D5FF" opacity="0.69"/>
+<circle cx="696.5" cy="29.0" r="1.25" fill="#E9D5FF" opacity="0.28"/>
+<circle cx="232.2" cy="17.4" r="0.88" fill="#E9D5FF" opacity="0.34"/>
+<circle cx="62.5" cy="20.3" r="1.31" fill="#E9D5FF" opacity="0.79"/>
+<circle cx="671.3" cy="28.7" r="0.73" fill="#E9D5FF" opacity="0.78"/>
+<circle cx="473.1" cy="43.7" r="0.53" fill="#E9D5FF" opacity="0.37"/>
+<circle cx="754.4" cy="47.7" r="1.29" fill="#E9D5FF" opacity="0.58"/>
+<circle cx="383.5" cy="34.9" r="1.26" fill="#E9D5FF" opacity="0.42"/>
+<circle cx="480.9" cy="16.6" r="1.19" fill="#E9D5FF" opacity="0.26"/>
+<circle cx="616.8" cy="57.2" r="0.52" fill="#E9D5FF" opacity="0.58"/>
+<circle cx="579.5" cy="51.1" r="1.03" fill="#E9D5FF" opacity="0.39"/>
+<circle cx="365.0" cy="57.5" r="1.32" fill="#E9D5FF" opacity="0.32"/>
+<circle cx="85.4" cy="5.6" r="0.52" fill="#E9D5FF" opacity="0.50"/>
+<circle cx="126.7" cy="52.0" r="1.09" fill="#E9D5FF" opacity="0.32"/>
+<circle cx="484.8" cy="19.5" r="0.94" fill="#E9D5FF" opacity="0.37"/>
+<circle cx="149.5" cy="11.0" r="0.84" fill="#E9D5FF" opacity="0.64"/>
+<g><circle cx="360" cy="30" r="1.6" fill="#F8FAFC"/><circle cx="400" cy="18" r="1.6" fill="#F8FAFC"/><circle cx="440" cy="34" r="1.6" fill="#F8FAFC"/><circle cx="478" cy="20" r="1.6" fill="#F8FAFC"/><line x1="360" y1="30" x2="400" y2="18" stroke="#C9A227" stroke-width="0.6" opacity="0.5"/><line x1="400" y1="18" x2="440" y2="34" stroke="#C9A227" stroke-width="0.6" opacity="0.5"/><line x1="440" y1="34" x2="478" y2="20" stroke="#C9A227" stroke-width="0.6" opacity="0.5"/></g>
+
+<g transform="translate(70,45)">
+  <circle cx="0" cy="0" r="22" fill="url(#moonGlow)"/>
+  <path d="M 6,-12 A 13,13 0 1 0 6,12 A 9.5,9.5 0 1 1 6,-12 Z" fill="#F8FAFC" opacity="0.9"/>
+</g>
+<g transform="translate(830,45)">
+  <circle cx="0" cy="0" r="22" fill="url(#moonGlow)"/>
+  <path d="M 6,-12 A 13,13 0 1 0 6,12 A 9.5,9.5 0 1 1 6,-12 Z" fill="#F8FAFC" opacity="0.9" transform="scale(-1,1)"/>
+</g>
+
+<line x1="60" y1="95" x2="840" y2="95" stroke="#C9A227" stroke-width="0.6" opacity="0.4"/>
+<circle cx="450.0" cy="95" r="2.4" fill="#C9A227" opacity="0.7"/>
+
+<text x="450.0" y="135" text-anchor="middle" class="motto" font-size="24">Cogito, ergo sum.</text>
+<line x1="310.0" y1="150" x2="590.0" y2="150" stroke="#5B21B6" stroke-width="0.5" opacity="0.5"/>
+</svg>
