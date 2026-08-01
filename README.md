@@ -1,177 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:9d4edd&height=220&section=header&text=Kauã%20Mariano%20Santinho&fontSize=45&fontColor=e0aaff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Estudante%20&descAlignY=55&descSize=16" width="100%"/>
+<img src="./assets/banner.svg" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22kauams%22;dev.stack+%3D+%5B%22HTML%22%2C+%22CSS%22%2C+%22JS%22%2C+%22React%22%5D;dev.status+%3D+%22Sempre+aprendendo...%22" alt="Typing SVG" />
+<br />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=22&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=560&height=50&lines=Software+Developer;Front-End+Developer;Always+learning.;Building+useful+things." alt="typing banner" />
 
----
-
-### `<sobre_mim />`
-
-```js
-const kauams = {
-  role: "Front-End Developer (em formação)",
-  location: "São Paulo, Brasil 🇧🇷",
-  focus: ["Interfaces modernas", "UX/UI", "Código limpo"],
-  currentlyLearning: ["React.js", "Node.js", "TypeScript"],
-  funFact: "Transformo café em componentes!",
-};
-```
-
-Sou **estudante de Desenvolvimento de Sistemas**, apaixonado por criar landing pages, funcionais e com boa experiência de usuário. Estou em constante evolução, buscando unir design e código para construir o que minha mente imaginar.
-
----
-
-### `<skills />`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma,git,github,vscode&theme=dark" />
+<img src="./assets/divider.svg" alt="" width="70%" />
 
 </div>
 
+<br />
+
+<img src="./assets/header-about.svg" alt="About" height="42" />
+
+<br /><br />
+
+I'm a developer focused on building clean, reliable, and well-crafted software —
+from interfaces to the systems behind them. I care about precision, readability,
+and design that ages well.
+
+Currently exploring modern front-end architecture, developer tooling, and the
+quiet discipline of writing code that is easy to reason about.
+
+<br />
+
+<img src="./assets/header-connect.svg" alt="Elsewhere" height="42" />
+
+<br /><br />
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1a0033?style=for-the-badge&logo=html5&logoColor=e0aaff)
-![CSS3](https://img.shields.io/badge/CSS3-1a0033?style=for-the-badge&logo=css3&logoColor=e0aaff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0033?style=for-the-badge&logo=javascript&logoColor=e0aaff)
-![React](https://img.shields.io/badge/React.js-1a0033?style=for-the-badge&logo=react&logoColor=e0aaff)
-![Node.js](https://img.shields.io/badge/Node.js-1a0033?style=for-the-badge&logo=node.js&logoColor=e0aaff)
-![SQL](https://img.shields.io/badge/SQL-1a0033?style=for-the-badge&logo=mysql&logoColor=e0aaff)
-![Figma](https://img.shields.io/badge/Figma-1a0033?style=for-the-badge&logo=figma&logoColor=e0aaff)
-![Git](https://img.shields.io/badge/Git-1a0033?style=for-the-badge&logo=git&logoColor=e0aaff)
+[![GitHub](https://img.shields.io/badge/GitHub-14101D?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14101D?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-14101D?style=for-the-badge&logo=instagram&logoColor=C084FC)](https://instagram.com/your-username)
+[![Discord](https://img.shields.io/badge/Discord-14101D?style=for-the-badge&logo=discord&logoColor=C084FC)](https://discord.com/users/your-id)
+[![Email](https://img.shields.io/badge/Email-14101D?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:[email protected])
+[![Portfolio](https://img.shields.io/badge/Portfolio-14101D?style=for-the-badge&logo=aboutdotme&logoColor=C084FC)](https://your-portfolio.com)
 
 </div>
 
----
+<br />
 
-### `<projetos_destaque />`
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+
+<br />
+
+<img src="./assets/header-technologies.svg" alt="Technologies" height="42" />
+
+<br /><br />
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-#### 🟣 frontend-studies
-
-*Meu estudos "diários" de tecnologias e recursos front-end. Me acompanhe!*
-
-
-![HTML5](https://img.shields.io/badge/HTML5-2d0057?style=flat-square&logo=html5&logoColor=c77dff)
-![CSS3](https://img.shields.io/badge/CSS3-2d0057?style=flat-square&logo=css3&logoColor=c77dff)
-![JS](https://img.shields.io/badge/JavaScript-2d0057?style=flat-square&logo=javascript&logoColor=c77dff)
-![React](https://img.shields.io/badge/React-2d0057?style=flat-square&logo=react&logoColor=c77dff)
-
-[![Repositório](https://img.shields.io/badge/Repositório-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-kauams/frontend-studies)
+![HTML5](https://img.shields.io/badge/HTML5-14101D?style=for-the-badge&logo=html5&logoColor=C084FC)
+![CSS3](https://img.shields.io/badge/CSS3-14101D?style=for-the-badge&logo=css3&logoColor=C084FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-14101D?style=for-the-badge&logo=javascript&logoColor=C084FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-14101D?style=for-the-badge&logo=typescript&logoColor=C084FC)
+![Node.js](https://img.shields.io/badge/Node.js-14101D?style=for-the-badge&logo=nodedotjs&logoColor=C084FC)
+![React](https://img.shields.io/badge/React-14101D?style=for-the-badge&logo=react&logoColor=C084FC)
+![Next.js](https://img.shields.io/badge/Next.js-14101D?style=for-the-badge&logo=nextdotjs&logoColor=C084FC)
+![Git](https://img.shields.io/badge/Git-14101D?style=for-the-badge&logo=git&logoColor=C084FC)
+![GitHub](https://img.shields.io/badge/GitHub-14101D?style=for-the-badge&logo=github&logoColor=C084FC)
+![VS Code](https://img.shields.io/badge/VS_Code-14101D?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC)
+![Linux](https://img.shields.io/badge/Linux-14101D?style=for-the-badge&logo=linux&logoColor=C084FC)
+![Figma](https://img.shields.io/badge/Figma-14101D?style=for-the-badge&logo=figma&logoColor=C084FC)
+![MySQL](https://img.shields.io/badge/MySQL-14101D?style=for-the-badge&logo=mysql&logoColor=C084FC)
+![Markdown](https://img.shields.io/badge/Markdown-14101D?style=for-the-badge&logo=markdown&logoColor=C084FC)
 
 </div>
 
-</td>
-<td width="50%">
+<br />
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+
+<br />
+
+<img src="./assets/header-statistics.svg" alt="Statistics" height="42" />
+
+<br /><br />
 
 <div align="center">
 
-#### 🟣 Pokémon Journey
+<img src="https://github-stats-extended.vercel.app/api?username=dev-kauams&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&border_color=2B1F45" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&border_color=2B1F45" alt="Top Languages" height="165" />
 
-*Pokémon Journey é um site com estética retrô (estilo GBA) que simula uma agência de viagens entre as regiões do universo Pokémon, como Kanto, Johto e Hoenn. Desenvolvido com HTML5, CSS3, JavaScript e Bootstrap, trazendo pixel art, fontes 8-bit e uma pegada nostálgica. Um projeto de front-end feito com carinho por quem cresceu jogando a franquia.*
+<br />
 
-![Figma](https://img.shields.io/badge/Figma-2d0057?style=flat-square&logo=figma&logoColor=c77dff)
-![HTML](https://img.shields.io/badge/HTML5-2d0057?style=flat-square&logo=html5&logoColor=c77dff)
-![CSS](https://img.shields.io/badge/CSS3-2d0057?style=flat-square&logo=css3&logoColor=c77dff)
-![JS](https://img.shields.io/badge/Javascript-2d0057?style=flat-square&logo=javascript&logoColor=c77dff)
+<img src="https://streak-stats.demolab.com?user=dev-kauams&theme=highcontrast&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=C084FC&sideNums=E9D5FF&currStreakNum=E9D5FF&sideLabels=E9D5FF&dates=5B21B6" alt="GitHub Streak" />
 
-[![Repositório](https://img.shields.io/badge/Repositório-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-kauams/pokemon-journey)
-[![Deploy](https://img.shields.io/badge/Live%20Demo-e0aaff?style=for-the-badge&logo=vercel&logoColor=1a0033)](https://dev-kauams.github.io/pokemon-journey)
+<br /><br />
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&theme=react-dark&bg_color=0D1117&color=C084FC&line=7C3AED&point=E9D5FF&area=true&area_color=5B21B6&hide_border=true&custom_title=Recent%20Activity" alt="Activity Graph" width="100%" />
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br /><br />
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dev-kauams&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Trophies" />
 
-#### 🟣 Guru's Learn
+<br /><br />
 
-*Gurus Learn é uma plataforma de estudos com arquitetura separada em backend e frontend, incluindo um banco de dados relacional (banco_de_dados.sql). Um projeto full-stack construído para praticar a integração entre interface, lógica de servidor e persistência de dados em SQL. Ideal para consolidar conceitos de front-end e back-end trabalhando juntos em um único sistema.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/dev-kauams/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/your-username/dev-kauams/output/github-snake.svg" width="100%" />
+</picture>
 
+<br /><br />
 
-![Figma](https://img.shields.io/badge/Figma-2d0057?style=flat-square&logo=figma&logoColor=c77dff)
-![HTML5](https://img.shields.io/badge/HTML5-2d0057?style=flat-square&logo=html5&logoColor=c77dff)
-![CSS3](https://img.shields.io/badge/CSS3-2d0057?style=flat-square&logo=css3&logoColor=c77dff)
-![Javascript](https://img.shields.io/badge/Javascript-2d0057?style=flat-square&logo=javascript&logoColor=c77dff)
-![Node.js](https://img.shields.io/badge/Noje.js-2d0057?style=flat-square&logo=node.js&logoColor=c77dff)
-
-[![Repositório](https://img.shields.io/badge/Repositório-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-kauams/gurus-learn)
-[![Deploy](https://img.shields.io/badge/Sem%20Link-e0aaff?style=for-the-badge&logo=vercel&logoColor=1a0033)](--link)
+<img src="https://komarev.com/ghpvc/?username=dev-kauams&label=Profile+Views&color=5B21B6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-</td>
-<td width="50%">
+> Statistics rely on active, free-tier public services. If a widget is temporarily rate-limited, it will recover automatically — no configuration needed. The contribution snake requires the workflow in `.github/workflows/snake.yml` to run once on the `output` branch of your profile repository.
 
-<div align="center">
+<br />
 
-#### 🟣 Guru's City Interwined
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
 
-*Guru's City Interwined (G.C.I) é um projeto de finalização do primeiro semestre do curso, simulando uma página governamental que atua como prestadora de serviços para a comunidade. Desenvolvido em PHP, com estrutura de páginas, área administrativa e conexão a banco de dados (SQL). Um projeto colaborativo que aplica lógica de back-end e organização de sistema em um contexto realista de atendimento público.*
+<br />
 
-![HTML5](https://img.shields.io/badge/HTML5-2d0057?style=flat-square&logo=html5&logoColor=c77dff)
-![CSS3](https://img.shields.io/badge/CSS3-2d0057?style=flat-square&logo=css3&logoColor=c77dff)
-![JS](https://img.shields.io/badge/JavaScript-2d0057?style=flat-square&logo=javascript&logoColor=c77dff)
-![PHP](https://img.shields.io/badge/PHP-2d0057?style=flat-square&logo=php&logoColor=c77dff)
+<img src="./assets/header-projects.svg" alt="Featured Projects" height="42" />
 
-[![Repositório](https://img.shields.io/badge/Repositório-9d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-kauams/GuruCityInterwined_G.C.I)
-[![Deploy](https://img.shields.io/badge/Sem%20Link-e0aaff?style=for-the-badge&logo=vercel&logoColor=1a0033)](--link)
+<br /><br />
 
-</div>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/560x260/14101D/C084FC?text=Project+Preview" width="100%" alt="Project One preview" /><br /><br />
+        <strong>Project Name</strong><br /><br />
+        <sub>A short, precise description of what the project does and the problem it solves.</sub><br /><br />
+        <img src="https://img.shields.io/badge/React-2B1F45?style=flat-square&logo=react&logoColor=C084FC" alt="" />
+        <img src="https://img.shields.io/badge/TypeScript-2B1F45?style=flat-square&logo=typescript&logoColor=C084FC" alt="" />
+        <img src="https://img.shields.io/badge/Node.js-2B1F45?style=flat-square&logo=nodedotjs&logoColor=C084FC" alt="" /><br /><br />
+        <a href="https://github.com/dev-kauams/gurus-learn">
+          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
+        </a>
+        <a href="https://your-live-demo-link.com">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://placehold.co/560x260/14101D/C084FC?text=Project+Preview" width="100%" alt="Project Two preview" /><br /><br />
+        <strong>Project Name</strong><br /><br />
+        <sub>A short, precise description of what the project does and the problem it solves.</sub><br /><br />
+        <img src="https://img.shields.io/badge/Next.js-2B1F45?style=flat-square&logo=nextdotjs&logoColor=C084FC" alt="" />
+        <img src="https://img.shields.io/badge/MySQL-2B1F45?style=flat-square&logo=mysql&logoColor=C084FC" alt="" />
+        <img src="https://img.shields.io/badge/Figma-2B1F45?style=flat-square&logo=figma&logoColor=C084FC" alt="" /><br /><br />
+        <a href="https://github.com/dev-kauams/pokemon-journey">
+          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
+        </a>
+        <a href="https://your-live-demo-link.com">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-</div>
+<br />
 
----
+<details>
+<summary><strong>Reusable project card template</strong> — copy this block for each new project</summary>
 
-### `<estatisticas />`
+<br />
+
+```md
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="LINK_TO_IMAGE" width="100%" alt="Project preview" /><br /><br />
+        <strong>PROJECT_NAME</strong><br /><br />
+        <sub>SHORT_DESCRIPTION</sub><br /><br />
+        <img src="https://img.shields.io/badge/TECH_ONE-2B1F45?style=flat-square&logo=LOGO_NAME&logoColor=C084FC" alt="" />
+        <img src="https://img.shields.io/badge/TECH_TWO-2B1F45?style=flat-square&logo=LOGO_NAME&logoColor=C084FC" alt="" /><br /><br />
+        <a href="REPOSITORY_LINK">
+          <img src="https://img.shields.io/badge/Repository-5B21B6?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Repository" />
+        </a>
+        <a href="LIVE_DEMO_LINK">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=E9D5FF" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+```
+
+</details>
+
+<br />
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="70%" /></div>
+
+<br />
+
+<img src="./assets/header-contact.svg" alt="Contact" height="42" />
+
+<br /><br />
 
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/0eeed41525f47732c9e10683b79963887b343a974ab6af14e56a44d3133a8e4f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465762d6b6175616d73267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565266261636b67726f756e643d3064306431612672696e673d39423539423626666972653d364130444144266375727253747265616b4c6162656c3d394235394236" width="48%" />
+Open to collaboration, freelance work, and interesting conversations about code.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kauams&show_icons=true&theme=transparent)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kauams&show_icons=true&theme=dark)
-
-</div>
-
----
-
-### `<conecte_se />`
-
-<div align="center">
-
-[![Youtube](https://img.shields.io/badge/YouTube-1a0033?style=for-the-badge&logo=youtube&logoColor=e0aaff)](https://www.youtube.com/@dev-kauams)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=e0aaff)](https://www.linkedin.com/in/dev-kauams/)
-[![Instagram](https://img.shields.io/badge/Instagram-1a0033?style=for-the-badge&logo=instagram&logoColor=e0aaff)](https://instagram.com/.kaua_ms.)
-[![Gmail](https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=e0aaff)](mailto:kauams.profissional@gmail.com)
+[![Email](https://img.shields.io/badge/[email protected]?style=for-the-badge&logo=gmail&logoColor=E9D5FF&labelColor=1A1328&color=5B21B6)](mailto:[email protected])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_me-1A1328?style=for-the-badge&logo=linkedin&logoColor=E9D5FF&labelColor=1A1328&color=5B21B6)](https://linkedin.com/in/dev-kauams)
 
 </div>
 
----
+<br />
 
 <div align="center">
-
-### *"Cogito, ergo sum."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:4b0082,100:1a0033&height=120&section=footer" width="100%"/>
-
+<img src="./assets/footer.svg" alt="footer" width="100%" />
 </div>
