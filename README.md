@@ -8,7 +8,7 @@
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## About
+## 𝔄𝔟𝔬𝔲𝔱
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## Technologies
+## 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰
 
 <div align="center">
 
@@ -56,7 +56,7 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## Statistics
+## 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰
 
 <div align="center">
 
@@ -87,7 +87,7 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## Featured Projects
+## 𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
 <table>
 <tr>
@@ -160,7 +160,7 @@ Replace `./assets/project-placeholder.svg` with an actual screenshot, and `REPO_
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## Contact
+## ℭ𝔬𝔫𝔱𝔞𝔠𝔱
 
 <div align="center">
 
