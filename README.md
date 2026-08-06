@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=560&letter-spacing=3px&lines=Front-End+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Building+precise%2C+well-crafted+interfaces" alt="typing banner"/>
-
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
@@ -87,8 +85,6 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 </div>
 
-> Statistics render automatically from your public GitHub activity. The contribution snake requires the workflow in `.github/workflows/snake.yml` (included in this repository) to be enabled once, so it can generate the `output` branch.
-
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Featured Projects
@@ -98,32 +94,50 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 <td width="50%">
 <img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
 
-**Project Name**
-Short, objective description of what the project does and the problem it solves.
+**Guru's Learn**
+Em desenvolvimento, 3/4.
 
-`React` `TypeScript` `Node.js`
+<div align=center>
+
+`React` `TypeScript` `Node.js` `SQL`
+
+</div>
+
+
+<div align=center>
 
 <a href="https://github.com/dev-kauams"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
 <a href="#"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+
+</div>
 
 </td>
 <td width="50%">
 <img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
 
-**Project Name**
-Short, objective description of what the project does and the problem it solves.
+**Pokémon Journey**
+Em desenvolvimento, 2/4.
 
-`HTML5` `CSS3` `JavaScript`
+<div align=center>
+
+`HTML5` `CSS3` `JavaScript` `PokéAPI`
+  
+</div>
+
+
+<div align=center>
 
 <a href="https://github.com/dev-kauams"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
 <a href="#"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Reusable template — copy this block for each new project</strong></summary>
+<summary><strong>Caso tu queira usar meu template</strong></summary>
 
 ```md
 <td width="50%">
@@ -143,12 +157,6 @@ Short, objective description of what the project does and the problem it solves.
 Replace `./assets/project-placeholder.svg` with an actual screenshot, and `REPO_URL` / `DEMO_URL` with the real links.
 
 </details>
-
-<img src="./assets/divider.svg" alt="" width="100%"/>
-
-## Open Source
-
-Contributions, issues and suggestions are welcome across the public repositories linked below. Pull requests are reviewed with attention to code clarity and consistency.
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
