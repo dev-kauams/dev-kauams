@@ -46,8 +46,6 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 <br/><br/>
 
 <img src="./assets/icons/github.svg" width="76" alt="GitHub"/>&nbsp;&nbsp;
-<img src="./assets/icons/linux.svg" width="76" alt="Linux"/>&nbsp;&nbsp;
-<img src="./assets/icons/vscode.svg" width="76" alt="VS Code"/>&nbsp;&nbsp;
 <img src="./assets/icons/figma.svg" width="76" alt="Figma"/>&nbsp;&nbsp;
 <img src="./assets/icons/mysql.svg" width="76" alt="MySQL"/>&nbsp;&nbsp;
 <img src="./assets/icons/markdown.svg" width="76" alt="Markdown"/>
@@ -60,16 +58,19 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=dev-kauams&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E9D5FF&icon_color=C084FC&text_color=F8FAFC&border_color=5B21B6" alt="GitHub Stats" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&hide_border=true&bg_color=0D1117&title_color=E9D5FF&text_color=F8FAFC&border_color=5B21B6" alt="Top Languages" width="34%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-kauams&layout=compact&hide_border=true&bg_color=00000020&title_color=8C52FF&text_color=8C52FF&border_color=8C52FF" alt="Top Languages" width="34%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dev-kauams&hide_border=true&background=0D1117&ring=7C3AED&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=F8FAFC&dates=A855F7" alt="GitHub Streak" width="85%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=dev-kauams&show_icons=true&hide_border=true&bg_color=00000020&title_color=8C52FF&icon_color=8C52FF&text_color=8C52FF&border_color=8C52FF" alt="GitHub Stats" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&bg_color=0D1117&color=C084FC&line=7C3AED&point=E9D5FF&area=true&hide_border=true&area_color=5B21B6" alt="Activity Graph" width="85%"/>
+<img src="https://streak-stats.demolab.com/?user=dev-kauams&background=00000020&hide_border=true&ring=8C52FF&fire=8C52FF&currStreakNum=8C52FF&sideNums=8C52FF&currStreakLabel=8C52FF&sideLabels=8C52FF&dates=8C52FF&stroke=8C52FF" alt="GitHub Streak" width="85%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&bg_color=00000020&color=8C52FF&line=8C52FF&point=8C52FF&area=true&hide_border=true&area_color=8C52FF" alt="Activity Graph" width="85%"/>
 
 <br/><br/>
 
@@ -80,8 +81,6 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 </picture>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dev-kauams&label=Profile+Views&color=5B21B6&style=flat" alt="Profile Views"/>
 
 </div>
 
