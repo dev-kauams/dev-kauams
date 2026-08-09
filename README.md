@@ -74,11 +74,11 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <br/><br/>
 
-<picture>
+/* <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg" width="85%"/>
-</picture>
+</picture> */
 
 <br/><br/>
 
