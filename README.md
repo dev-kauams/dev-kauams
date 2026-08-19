@@ -66,19 +66,11 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dev-kauams&background=00000020&hide_border=true&ring=8C52FF&fire=8C52FF&currStreakNum=8C52FF&sideNums=8C52FF&currStreakLabel=8C52FF&sideLabels=8C52FF&dates=8C52FF&stroke=8C52FF" alt="GitHub Streak" width="85%"/>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&bg_color=00000020&color=8C52FF&line=8C52FF&point=8C52FF&area=true&hide_border=true&area_color=8C52FF" alt="Activity Graph" width="85%"/>
 
 <br/><br/>
-
-/* <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dev-kauams/dev-kauams/output/github-snake.svg" width="85%"/>
-</picture> */
 
 <br/><br/>
 
