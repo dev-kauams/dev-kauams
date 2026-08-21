@@ -104,14 +104,14 @@ Em desenvolvimento, 3/4.
 
 </td>
 <td width="50%">
-<img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
+<img src="./assets/project-previews/codecase_preview.svg" width="100%" alt="Project preview"/>
 
-**Pokémon Journey**
-Em desenvolvimento, 2/4.
+**CodeCase**
+Em desenvolvimento, 1/4.
 
 <div align=center>
 
-`HTML5` `CSS3` `JavaScript` `PokéAPI`
+`HTML5` `CSS3` `JavaScript` `Node.js` `SQL`
   
 </div>
 
