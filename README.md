@@ -107,7 +107,7 @@ Em desenvolvimento, 3/4.
 <img src="./assets/project-previews/codecase_preview.svg" width="100%" alt="Project preview"/>
 
 **CodeCase**
-Em desenvolvimento, 1/4.
+Base pública finalizada.
 
 <div align=center>
 
@@ -118,8 +118,8 @@ Em desenvolvimento, 1/4.
 
 <div align=center>
 
-<a href="https://github.com/dev-kauams"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
-<a href="#"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
+<a href="https://github.com/dev-kauams/codecase"><img src="./assets/buttons/repository.svg" height="40" alt="Repository"/></a>
+<a href="https://codecase-dev.vercel.app/"><img src="./assets/buttons/live-demo.svg" height="40" alt="Live Demo"/></a>
 
 </div>
 
