@@ -78,6 +78,16 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
+## Estudos por linguagem
+
+Organizei meus exercícios e estudos em índices por linguagem, mantendo os repositórios originais:
+
+- [Java — exercícios e fundamentos](./java-exercises.md)
+- [Python — exercícios e estudos](./python-exercises.md)
+- [PHP — exercícios e estudos](./php-exercises.md)
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
 ## 𝔉𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
 <table>
