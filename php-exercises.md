@@ -4,19 +4,13 @@
 
 ## Repositórios
 
+### Calculadoras
 | Repositório | Foco aparente pelo nome |
 |---|---|
-| [Calculadora](https://github.com/dev-kauams/Calculadora) | Calculadora |
-| [escola_projeto](https://github.com/dev-kauams/escola_projeto) | Projeto relacionado a escola |
-| [Juros-e-Conversor](https://github.com/dev-kauams/Juros-e-Conversor) | Cálculo de juros/conversão |
+| [Calculadora](https://github.com/dev-kauams/php-exercises/tree/main/projects/calculadora) | Calculadora |
+| [Juros e Conversor](https://github.com/dev-kauams/php-exercises/tree/main/projects/juros-e-conversor) | Cálculo de juros/conversão |
 
-## Revisar antes de agrupar
-
-- [CalculadoraJurosPHP](https://github.com/dev-kauams/CalculadoraJurosPHP) — é um fork e deve ser revisado quanto a origem, licença e créditos antes de copiar para outra coleção pública.
-
-## Próxima limpeza recomendada
-
-1. Comparar os repositórios de calculadora/conversão e escolher quais exercícios têm valor distinto.
-2. Consolidar os exercícios simples por tema, por exemplo `calculadoras/`, `juros/` e `projetos/`.
-3. Preservar os links para os originais e revisar as licenças antes de redistribuir o conteúdo.
-4. Arquivar originais somente depois de testar a coleção consolidada.
+### Sitemas
+| Repositório | Foco aparente pelo nome |
+|---|---|
+| [Projeto Escolar](https://github.com/dev-kauams/php-exercises/tree/main/projects/projeto-escolar) | Projeto relacionado a escola |
