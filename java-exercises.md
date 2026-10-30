@@ -4,25 +4,34 @@
 
 ## Repositórios
 
+### Introdutórios
 | Repositório | Foco aparente pelo nome |
 |---|---|
-| [BubbleSort](https://github.com/dev-kauams/BubbleSort) | Algoritmo de ordenação |
-| [Calculadora-Simples](https://github.com/dev-kauams/Calculadora-Simples) | Calculadora básica |
-| [Consulta-ao-Sal-rio](https://github.com/dev-kauams/Consulta-ao-Sal-rio) | Exercício de consulta de salário |
-| [DataeSigno](https://github.com/dev-kauams/DataeSigno) | Data e signo |
-| [EstacaoDoAno](https://github.com/dev-kauams/EstacaoDoAno) | Estações do ano |
-| [Farenheit](https://github.com/dev-kauams/Farenheit) | Conversão de temperatura |
-| [JurosCalculadora](https://github.com/dev-kauams/JurosCalculadora) | Cálculo de juros |
-| [Ol-Mundo](https://github.com/dev-kauams/Ol-Mundo) | Exercício introdutório |
-| [Projeto-Java](https://github.com/dev-kauams/Projeto-Java) | Projeto/atividade de Java |
-| [Teste-Aula](https://github.com/dev-kauams/Teste-Aula) | Testes de aula |
-| [Validador-de-Triangulo](https://github.com/dev-kauams/Validador-de-Triangulo) | Validação de triângulo |
+| [Olá Mundo](https://github.com/dev-kauams/java-exercises/tree/main/projects/ola-mundo) | Exercício introdutório |
+| [Teste Aula](https://github.com/dev-kauams/java-exercises/tree/main/projects/teste-de-aula) | Testes de aula | 
 
-## Próxima limpeza recomendada
+### Algoritmos
+| Repositório | Foco aparente pelo nome |
+|---|---|
+| [BubbleSort](https://github.com/dev-kauams/java-exercises/tree/main/projects/bubble-sort) | Algoritmo de ordenação |
 
-1. Comparar os conteúdos e identificar exercícios repetidos.
-2. Consolidar os exercícios pequenos em pastas, por exemplo `algoritmos/`, `condicionais/`, `conversores/` e `calculadoras/`.
-3. Manter um README por exercício ou um índice claro dentro da coleção consolidada.
-4. Só depois arquivar os repositórios originais; não excluir antes de conferir histórico e arquivos.
+### Condicionais
+| Repositório | Foco aparente pelo nome |
+|---|---|
+| [Data e Signo](https://github.com/dev-kauams/java-exercises/tree/main/projects/data-e-signo) | Data e signo |
+| [Estação do Ano](https://github.com/dev-kauams/java-exercises/tree/main/projects/estacao-do-ano) | Estações do ano |
+| [Validador de Triângulo](https://github.com/dev-kauams/java-exercises/tree/main/projects/validador-de-triangulo) | Validação de triângulo |
 
-> Os focos da tabela são inferidos pelos nomes dos repositórios e devem ser confirmados pelo código.
+### Conversores
+| Repositório | Foco aparente pelo nome |
+|---|---|
+| [Farenheit](https://github.com/dev-kauams/java-exercises/tree/main/projects/conversor-fahrenheit) | Conversão de temperatura |
+
+### Calculadoras
+| Repositório | Foco aparente pelo nome |
+|---|---|
+| [Calculadora Simples](https://github.com/dev-kauams/java-exercises/tree/main/projects/calculadora-simples) | Calculadora básica |
+| [Consulta ao Salário](https://github.com/dev-kauams/java-exercises/tree/main/projects/consulta-ao-salario) | Exercício de consulta de salário |
+| [Calculadora de Juros](https://github.com/dev-kauams/java-exercises/tree/main/projects/calculadora-de-juros) | Cálculo de juros |
+| [Projeto de Java](https://github.com/dev-kauams/java-exercises/tree/main/projects/projeto-java) | Projeto/atividade de Java |
+
