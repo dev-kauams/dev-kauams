@@ -68,8 +68,6 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-kauams&bg_color=00000020&color=8C52FF&line=8C52FF&point=8C52FF&area=true&hide_border=true&area_color=8C52FF" alt="Activity Graph" width="85%"/>
-
 <br/><br/>
 
 <br/><br/>
@@ -78,7 +76,7 @@ My name is Kauã Mariano Santinho. I'm 17 years old and currently studying Syste
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
-## Estudos por linguagem
+## 𝕰𝖘𝖙𝖚𝖉𝖔𝖘 𝖕𝖔𝖗 𝖑𝖎𝖓𝖌𝖚𝖆𝖌𝖊𝖒
 
 Organizei meus exercícios e estudos em índices por linguagem, mantendo os repositórios originais:
 
@@ -95,7 +93,7 @@ Organizei meus exercícios e estudos em índices por linguagem, mantendo os repo
 <td width="50%">
 <img src="./assets/project-placeholder.svg" width="100%" alt="Project preview"/>
 
-**Guru's Learn**
+**Guru's Educa**
 Em desenvolvimento, 3/4.
 
 <div align=center>
